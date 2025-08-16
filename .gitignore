@@ -1,0 +1,7 @@
+# For The Laravel Project
+vendor
+vendor/
+
+# For The React and Laravel Projects
+node_modules
+node_modules/
